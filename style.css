@@ -218,7 +218,7 @@ button:active {
     }
 
     .attribution {
-        background-color: hsla(300, 43%, 22%, 0.33);
+        background-color: hsl(300, 43%, 22%);
         color:hsla(0, 0%, 100%, 0.529);
         position: fixed;
         font-size: 10px;

@@ -218,7 +218,7 @@ button:active {
     }
 
     .attribution {
-        background-color: var(--Violet);
+        background-color: rgba(72, 71, 71, 0.385);
         color:hsla(0, 0%, 100%, 0.529);        
         font-size: 10px;
         position: fixed;
